@@ -16,7 +16,7 @@ public class HelloWorldApplication {
 
     @GetMapping("/")
     public String home(){
-        return "Welcome Home (TechNet)";
+        return "Welcome Home (TechNet with EC2 Instance) .v4 ";
     }
 
 }
