@@ -16,7 +16,7 @@ public class HelloWorldApplication {
 
     @GetMapping("/")
     public String home(){
-        return "Welcome Home (TechNet) v2";
+        return "Welcome Home (TechNet) .v2";
     }
 
 }
